@@ -1,9 +1,3 @@
-# Welcome to my home page !
-
-Recently, I'm devoted to setting up a _software foundation_, <br/>
-Come and contact me by: <br/>
-__WeChat__ : ___MaxwellzsTurring___ <br/>
-__QQ__ : ___2107711239___ <br/>
-
-Region of <font color=red>China Main Land</font> take precedence !<br/>
-
+有关软件交流或者技术分享可以通过邮件联系我
+if you want to contact me, please send mail to me
+maxwellzsturring@outlook.com
